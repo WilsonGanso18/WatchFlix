@@ -1,5 +1,24 @@
 body{
-color: #FFD700			 ;
-background-color: #4682B4	;
+color: #ffeaa4			 ;
+background-color: #54affa	;
+margin: 0px;
+margin-bottom: 100px;
+}
+header{
 
+    border-bottom: solid 2px #ffe9b7 ;
+    margin: 20px;
+    font-size: 32px;
+    color: rgba(255, 87, 87, 0.733)
+
+}
+
+section{
+
+
+    padding-bottom: 80px;
+    padding-top: 80px;
+    background: rgb(59, 179, 235);
+    display: flex;
+    justify-content: center;
 }
